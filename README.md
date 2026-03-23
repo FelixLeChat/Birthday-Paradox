@@ -1,4 +1,4 @@
-# Website_ProbStats
+# The Birthday Paradox
 
 Site pour illustrer le paradoxe des anniversaire dans le cadre du cours de Probabilités et Statistiques de Polytechnique Montréal.
 
